@@ -1,0 +1,15 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\SwitchPanels\SwitchPanels.c:42:5"
+
+[OnWavePanelCB]
+Class="Function"
+Prototype="int OnWavePanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\SwitchPanels\SwitchPanels.c:66:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\SwitchPanels\SwitchPanels.c:74:17"
+

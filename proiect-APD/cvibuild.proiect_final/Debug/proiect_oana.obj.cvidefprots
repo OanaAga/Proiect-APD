@@ -1,0 +1,140 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:41:5"
+
+[AfisarePeInterfata]
+Class="Function"
+Prototype="void AfisarePeInterfata(int panel, double *vect, int dim);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:58:6"
+
+[FitrarePrinMediere]
+Class="Function"
+Prototype="void FitrarePrinMediere(double *vect, int dim, double *y);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:96:6"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:125:17"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:155:17"
+
+[afisarePerSecond]
+Class="Function"
+Prototype="void afisarePerSecond(int panel);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:173:6"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:188:17"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:212:17"
+
+[OnSwitch]
+Class="Function"
+Prototype="int OnSwitch(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:237:17"
+
+[OnApl]
+Class="Function"
+Prototype="int OnApl(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:275:17"
+
+[OnRing]
+Class="Function"
+Prototype="int OnRing(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:350:17"
+
+[OnPlotEnvelope]
+Class="Function"
+Prototype="int OnPlotEnvelope(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:380:17"
+
+[OnSave]
+Class="Function"
+Prototype="int OnSave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:416:17"
+
+[OnApplyDer]
+Class="Function"
+Prototype="int OnApplyDer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:441:17"
+
+[DimFereastra]
+Class="Function"
+Prototype="int DimFereastra(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:467:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:493:17"
+
+[OnAcqPanel]
+Class="Function"
+Prototype="int OnAcqPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:516:17"
+
+[aplicaSpetruPerTotal]
+Class="Function"
+Prototype="int aplicaSpetruPerTotal();"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:533:5"
+
+[afisareFereastra]
+Class="Function"
+Prototype="int afisareFereastra();"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:622:5"
+
+[aplicaFiltru]
+Class="Function"
+Prototype="int aplicaFiltru();"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:708:5"
+
+[OnTimer]
+Class="Function"
+Prototype="int OnTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:787:17"
+
+[afisarePerSecunda]
+Class="Function"
+Prototype="int afisarePerSecunda(int panel);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:854:5"
+
+[afisareSemnalComplet]
+Class="Function"
+Prototype="int afisareSemnalComplet();"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:900:5"
+
+[SelectareTipAfisare]
+Class="Function"
+Prototype="int SelectareTipAfisare(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:936:17"
+
+[schimbareSec]
+Class="Function"
+Prototype="int schimbareSec(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:970:17"
+
+[SetFilterType]
+Class="Function"
+Prototype="int SetFilterType(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:984:17"
+
+[SetWindowType]
+Class="Function"
+Prototype="int SetWindowType(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:1000:17"
+
+[OnSave2]
+Class="Function"
+Prototype="int OnSave2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Oana\Documents\an 3\proiect_apd\proiect_final\proiect_oana.c:1017:17"
+
